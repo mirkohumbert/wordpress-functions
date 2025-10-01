@@ -11,13 +11,13 @@ The shortcode function allows to include the estimated reading time anywhere (te
 ### Shortcode usage:
 
 *Basic usage*  
-[reading_time]
+  [reading_time]
 
 *Custom reading speed (250 words per minute)*  
-[reading_time speed="250"]
+  [reading_time speed="250"]
 
 *Custom prefix and suffix*  
-[reading_time prefix="Estimated read: " suffix=" of content"]
+  [reading_time prefix="Estimated read: " suffix=" of content"]
 
 *Combined attributes*  
-[reading_time speed="300" prefix="⏱️ " suffix=" to read"]
+  [reading_time speed="300" prefix="⏱️ " suffix=" to read"]
